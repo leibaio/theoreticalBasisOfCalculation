@@ -1,2 +1,1 @@
-# theoreticalBasisOfCalculation
- theoretical basisOfCalculation
+# 计算理论基础
